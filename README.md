@@ -78,8 +78,18 @@ This is a simple and practical implementation of an RFID-based attendance system
 | Student 02   | D3 E4 47 DA     |
 
 ---
----
 
+## 📸 Project Preview
+
+### Prototype Image
+
+![Project Setup](./WhatsApp%20Image%202025-04-13%20at%2017.13.45_2249034c.jpg)
+
+### Demo Video
+
+[▶️ Watch Video](./WhatsApp%20Video%202025-04-10%20at%2010.05.04_2318057b.mp4)
+
+---
 ## 🛠 Installation & Setup
 
 Follow these steps to set up the RFID Attendance System:
