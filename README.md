@@ -78,6 +78,39 @@ This is a simple and practical implementation of an RFID-based attendance system
 | Student 02   | D3 E4 47 DA     |
 
 ---
+---
+
+## 🛠 Installation & Setup
+
+Follow these steps to set up the RFID Attendance System:
+
+### 1. 🔌 Hardware Setup
+- Connect all components according to the circuit tables provided above.
+- Ensure the MFRC522 module is powered with **3.3V**, not 5V.
+- Double-check all wiring before powering the circuit.
+
+### 2. 💻 Software Setup
+- Install the latest version of **Arduino IDE** from [arduino.cc](https://www.arduino.cc/en/software).
+- Connect your **Arduino UNO** to the PC via USB.
+
+### 3. 📦 Required Libraries
+Install the following libraries via **Library Manager** (`Sketch` → `Include Library` → `Manage Libraries`):
+- `MFRC522` by GithubCommunity (for RFID Reader)
+- `LiquidCrystal` (for LCD)
+
+Or install manually:
+- [MFRC522 Library GitHub](https://github.com/miguelbalboa/rfid)
+
+### 4. 🔁 Upload the Code
+- Open `main.ino` from this repository.
+- Select the correct **Board** and **Port** in the Arduino IDE.
+- Click **Upload**.
+
+### 5. ✅ Ready to Use
+- Once uploaded, the LCD will prompt: `SHOW YOUR ID CARD`.
+- Tap your RFID card on the reader to register attendance!
+
+
 
 ## 🎯 How It Works
 
