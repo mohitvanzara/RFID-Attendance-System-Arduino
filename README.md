@@ -83,11 +83,11 @@ This is a simple and practical implementation of an RFID-based attendance system
 
 ### Prototype Image
 
-![Project Setup](./WhatsApp%20Image%202025-04-13%20at%2017.13.45_2249034c.jpg)
+![Project Setup](Prototype.jpg)
 
 ### Demo Video
 
-[▶️ Watch Video](./WhatsApp%20Video%202025-04-10%20at%2010.05.04_2318057b.mp4)
+[▶️ Watch Video](video.mp4)
 
 ---
 ## 🛠 Installation & Setup
